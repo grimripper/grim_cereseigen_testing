@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.5)
+
+add_subdirectory(Test01_HelloWorld_Auto)
+add_subdirectory(Test02_HelloWorld_Numeric)
+add_subdirectory(Test03_HelloWorld_Analytic)
+add_subdirectory(Test04_Powell)
+add_subdirectory(Test05_CurveFitting)
+add_subdirectory(Test06_RobustCurveFitting)
+add_subdirectory(Test07_BA)

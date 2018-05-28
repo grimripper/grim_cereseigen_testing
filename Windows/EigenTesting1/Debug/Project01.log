@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'c:\mycode\grim_cereseigen_testing\eigentesting1\debug\project01.pdb' because it is being used by another process.
+  main.cpp
+  Project01.vcxproj -> C:\MyCode\grim_cereseigen_testing\EigenTesting1\Debug\Project01.exe
+  Project01.vcxproj -> C:\MyCode\grim_cereseigen_testing\EigenTesting1\Debug\Project01.pdb (Full PDB)

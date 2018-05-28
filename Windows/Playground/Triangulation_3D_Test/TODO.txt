@@ -1,0 +1,9 @@
+#1 - Test 3 projection matrices to point using Math
+
+#2 - Add pinhole camera distortion model to get to a point in (u,v)
+
+#3 - Given point, undistort
+
+#4 - Run triangulation to get 3D point
+
+#5 - (optional) view (#1)
